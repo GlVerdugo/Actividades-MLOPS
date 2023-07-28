@@ -53,7 +53,7 @@ Follow the instructions below to do the activity.
         threadpoolctl==3.2.0
         tomli==2.0.1
         typing_extensions==4.7.1
-   tzdata==2023.3
+         tzdata==2023.3
         
     </details>
     
